@@ -1,0 +1,43 @@
+help me design and plan a minimal website
+
+
+
+i want to build a website for building construction company.
+
+
+stack
+{
+    html,css,js
+}
+
+overall colour theme is light colours , with light greesn as the primary
+
+total pages{
+    page1 - landing page{
+        this page is divided into sections{
+            landings section { most attractive part} with an image
+            who we are part { a small paragrah telling who we are and what we do}
+            projects {
+                2 projects listed side by side
+                under that a button { see other projects}
+
+            }
+            out team section{
+                square images of 2 ppl and thei nam e and designation
+            }
+            {
+                contact us section
+            }
+            {
+                legal footer section
+            }
+        }
+    }
+    page 2 - projects page {
+
+        shoacsing all the projects both in work and completed
+
+    }
+}
+
+what are the thoughts on this,
