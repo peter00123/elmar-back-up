@@ -16,35 +16,93 @@
 
 const PROJECTS = [
   {
-    name: "Residence at Thiruvankulam",
-    location: "Thiruvankulam, Ernakulam",
-    type: "Residential",
-    status: "completed",
+    name: "< name.......>",
+    location: "< location.......>",
+    type: " area",
+    status: "current",
     featured: true,
     image: "assets/8.jpg"
   },
   {
-    name: "Villa at Piravom",
-    location: "Piravom, Ernakulam",
-    type: "Residential",
-    status: "completed",
+    name: "< name.......>",
+    location: "< location.......>",
+    type: " area",
+    status: "current",
     featured: true,
     image: "assets/9.jpg"
   },
+
+
   {
-    name: "Turnkey Residence, Kakkanad",
-    location: "Kakkanad, Ernakulam",
-    type: "Turnkey project",
-    status: "in-progress",
+    name: "< name.......>",
+    location: "< location.......>",
+    type: " area",
+    status: "completed",
     featured: false,
-    image: "assets/images/projects/project-03.jpg"
+    image: "assets/1n.jpeg"
   },
+    {
+    name: "< name.......>",
+    location: "< location.......>",
+    type: " area",
+    status: "completed",
+    featured: false,
+    image: "assets/2.jpg"
+  },
+    {
+    name: "< name.......>",
+    location: "< location.......>",
+    type: " area",
+    status: "completed",
+    featured: false,
+    image: "assets/3.jpg"
+  },
+    {
+    name: "< name.......>",
+    location: "< location.......>",
+    type: " area",
+    status: "completed",
+    featured: false,
+    image: "assets/15.jpeg"
+  },  {
+    name: "< name.......>",
+    location: "< location.......>",
+    type: " area",
+    status: "completed",
+    featured: false,
+    image: "assets/16.jpeg"
+  },
+    {
+    name: "< name.......>",
+    location: "< location.......>",
+    type: " area",
+    status: "completed",
+    featured: false,
+    image: "assets/17.jpeg"
+  },
+
   {
-    name: "Plot Development, Muvattupuzha",
-    location: "Muvattupuzha, Ernakulam",
-    type: "Land development",
+    name: "< name.......>",
+    location: "< location.......>",
+    type: " area",
     status: "in-progress",
     featured: false,
-    image: "assets/images/projects/project-04.jpg"
+    image: "assets/10.jpg"
+  },
+    {
+    name: "< name.......>",
+    location: "< location.......>",
+    type: " area",
+    status: "in-progress",
+    featured: false,
+    image: "assets/11.jpg"
+  },
+    {
+    name: "< name.......>",
+    location: "< location.......>",
+    type: " area",
+    status: "in-progress",
+    featured: false,
+    image: "assets/12.jpg"
   }
 ];
