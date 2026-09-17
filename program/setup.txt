@@ -1,0 +1,1113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Elmar Builders — Residential Construction &amp; Land Development, Ernakulam</title>
+<meta name="description" content="Elmar Builders designs and builds homes, turnkey projects and land developments around Ernakulam, Kerala. Sheltering your dreams, one project at a time.">
+<link rel="canonical" href="https://www.elmarbuilders.com/">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Elmar Builders">
+<meta property="og:title" content="Elmar Builders — Residential Construction &amp; Land Development, Ernakulam">
+<meta property="og:description" content="Homes, turnkey projects and land development around Ernakulam, Kerala. Sheltering your dreams.">
+<meta property="og:image" content="/assets/images/hero/hero-1.jpg">
+<meta property="og:url" content="https://www.elmarbuilders.com/">
+
+<link rel="icon" href="/assets/icons/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/icons/favicon.svg">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="css/style.css">
+<script>document.documentElement.classList.add("js");</script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="nav" id="siteNav" data-on-image="true">
+  <div class="wrap">
+    <a class="nav__logo" href="index.html" aria-label="Elmar Builders, home">
+      <img src="assets/LOGO-PNG.png" alt="" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';">
+      <span class="nav__logo-fallback" style="display:none;">Elmar Builders</span>
+    </a>
+
+    <nav class="nav__links" aria-label="Primary">
+      <a href="index.html" aria-current="page">Home</a>
+      <a href="projects.html">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+
+    <button class="nav__toggle" id="navToggle" aria-expanded="false" aria-controls="mobileMenu" aria-label="Open menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<div class="mobile-menu" id="mobileMenu">
+  <nav class="mobile-menu__links" aria-label="Mobile">
+    <a href="index.html">Home</a>
+    <a href="projects.html">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <div class="mobile-menu__contact">
+    <span>+91 96330 68689</span>
+    <span>elmarhomes@gmail.com</span>
+    <span>Thiruvankulam, Ernakulam</span>
+  </div>
+</div>
+
+<main id="main">
+
+  <section class="hero" id="hero">
+    <div class="hero__media">
+      <img src="assets/12.jpg" alt="A recently completed Elmar Builders home, exterior view" id="heroImage">
+    </div>
+    <div class="hero__scrim" aria-hidden="true"></div>
+
+    <div class="hero__content">
+      <div class="wrap">
+        <div class="hero__row">
+          <div class="hero__statement">
+            <span class="hero__rule" aria-hidden="true"></span>
+            <div>
+              <h1 class="hero__headline">Sheltering Your Dreams.</h1>
+              <p class="hero__support">Residential construction, turnkey projects and land development.</p>
+              <div class="hero__cta" style="margin-top: 2.25rem;">
+                <a class="btn btn--primary" href="projects.html">Explore our projects</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <span class="hero__scroll-cue" aria-hidden="true">Scroll</span>
+  </section>
+
+  <section class="section section--deep" id="about">
+    <div class="wrap about">
+      <div class="about__label reveal">
+        <span class="section-head__rule" aria-hidden="true"></span>
+        <h2>Who we are</h2>
+      </div>
+      <div class="about__body reveal">
+        <p>Elmar Builders has been shaping homes and commercial spaces for families who want something built once, and built right. We handle residential construction and full turnkey projects, so a family can hand us a plot and get back a finished home, without juggling separate contractors for design, structure and finishing.</p>
+        <p>Alongside construction, we help clients buy and develop land, guiding the process from site selection through to a plot that's ready to build on. Every project is treated the way we'd build for our own family: solid materials, honest timelines, and a site we stay close enough to walk through often.</p>
+        <ul class="about__services">
+          <li>Residential construction</li>
+          <li>Turnkey projects</li>
+          <li>Land development &amp; sales</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--alt" id="featured-projects">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <h2 class="section-title">Current Projects</h2>
+        <p class="section-kicker">A look at homes projects underway.</p>
+      </div>
+
+      <div class="projects-grid" id="featuredProjects">
+        <!-- Rendered by js/main.js from js/projects-data.js -->
+      </div>
+
+      <div class="projects-foot reveal">
+        <a class="link-arrow" href="projects.html">View all projects <span aria-hidden="true">&rarr;</span></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="team">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <h2 class="section-title">Our team</h2>
+        <p class="section-kicker">The people who plan, build and stand behind every project.</p>
+      </div>
+
+      
+
+      
+      <div class="team-grid">
+        <div class="team-card reveal">
+          <div class="team-card__frame">
+            <img src="assets/team1crop.png" alt="Portrait of the Elmar Builders founder">
+          </div>
+          <h3 class="team-card__name">Aby Varghese</h3>
+          <p class="team-card__role">Managing partner</p>
+        </div>
+        <div class="team-card reveal">
+          <div class="team-card__frame">
+            <img src="assets/images/team/project-manager.jpg" alt="Portrait of the Elmar Builders project manager">
+          </div>
+          <h3 class="team-card__name">Add  name</h3>
+          <p class="team-card__role">Managing partner</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="contact">
+    <div class="wrap contact">
+      <div class="reveal">
+        <h2 class="contact__headline">Let's build something together.</h2>
+        <p class="contact__lede">Have a project in mind? Tell us about it and we'll get back to you.</p>
+        <div class="contact__actions">
+          <a class="btn btn--primary" href="tel:+919633068689">Call us</a>
+          <a class="btn btn--ghost" href="https://wa.me/919633068689" target="_blank" rel="noopener">WhatsApp</a>
+        </div>
+      </div>
+
+      <dl class="contact__details reveal">
+        <div class="contact__item">
+          <dt>Phone</dt>
+          <dd><a href="tel:+919633068689">+91 96330 68689</a><br><a href="tel:+919633788278">+91 96337 88278</a></dd>
+        </div>
+        <div class="contact__item">
+          <dt>Email</dt>
+          <dd><a href="mailto:elmarhomes@gmail.com">elmarhomes@gmail.com</a></dd>
+        </div>
+        <div class="contact__item">
+          <dt>Office</dt>
+          <dd>VI/356 H, 1st Floor, Classic Chambers<br>Thiruvankulam, Ernakulam 682305, Kerala</dd>
+        </div>
+      </dl>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <div class="footer__top">
+      <div>
+        <a class="footer__brand" href="index.html">
+          <img src="assets/logo/elmar-builders-logo-light.svg" alt="" onerror="this.style.display='none';">
+          Elmar Builders
+        </a>
+        <p class="footer__tagline">Sheltering your dreams — residential construction, turnkey projects and land development in Ernakulam.</p>
+      </div>
+     <div>
+        <p class="footer__heading">Site</p>
+        <nav class="footer__links" aria-label="Footer">
+          <a href="index.html">Home</a>
+          <a href="projects.html">Projects</a>
+          <a href="#contact">Contact</a>
+        </nav>
+      </div>
+      <div>
+        <p class="footer__heading">Contact</p>
+        <div class="footer__meta">
+          <a href="tel:+919633068689">+91 96330 68689</a>
+          <a href="mailto:elmarhomes@gmail.com">elmarhomes@gmail.com</a>
+          <span>Thiruvankulam, Ernakulam, Kerala</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer__bottom">
+      <span>&copy; <span id="year">2026</span> Elmar Builders. All rights reserved.</span>
+      <div class="footer__legal">
+        <a href="#">Privacy Policy</a>
+        <a href="#">Terms &amp; Conditions</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/projects-data.js"></script>
+<script src="js/main.js"></script>
+<script src="js/animations.js"></script>
+</body>
+</html>
+==============================
+/* ==========================================================================
+   Elmar Builders — Stylesheet
+   Design tokens: warm-paper / moss-green architectural portfolio
+   ========================================================================== */
+
+/* ---- Design tokens ------------------------------------------------------ */
+:root {
+  /* Colour */
+  --paper: #FAFAF9;
+  --paper-deep: #F1F1EF;
+  --card: #FFFFFF;
+  --ink: #17191A;
+  --ink-soft: #5F6365;
+  --ink-faint: #8A8D8F;
+  --moss: #3F5C42;
+  --moss-strong: #32492F;
+  --moss-deep: #16181A;
+  --line: #D9DBDC;
+  --line-deep: #3A3D40;
+
+  /* Type */
+  --font-display: "Fraunces", "Iowan Old Style", "Palatino Linotype", serif;
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+  /* Type scale (fluid) */
+  --step-body: 1rem;
+  --step-lg: clamp(1.125rem, 1rem + 0.5vw, 1.375rem);
+  --step-h3: clamp(1.5rem, 1.2rem + 1.2vw, 2.1rem);
+  --step-h2: clamp(2.1rem, 1.6rem + 2vw, 3.1rem);
+  --step-h1: clamp(2.6rem, 1.7rem + 4vw, 5.2rem);
+
+  /* Layout */
+  --max-width: 1280px;
+  --gutter: clamp(1.5rem, 4vw, 4rem);
+  --radius-sm: 3px;
+  --radius-md: 4px;
+
+  /* Motion */
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+  --dur-fast: 240ms;
+  --dur-med: 620ms;
+  --dur-slow: 1400ms;
+}
+
+/* ---- Reset --------------------------------------------------------------- */
+*,
+*::before,
+*::after { box-sizing: border-box; }
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: var(--step-body);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+img { max-width: 100%; display: block; }
+a { color: inherit; text-decoration: none; }
+ul { margin: 0; padding: 0; list-style: none; }
+button { font: inherit; color: inherit; background: none; border: none; cursor: pointer; }
+h1, h2, h3, h4, p { margin: 0; }
+
+/* Visible keyboard focus everywhere */
+:focus-visible {
+  outline: 2px solid var(--moss);
+  outline-offset: 3px;
+}
+
+/* ---- Layout helpers -------------------------------------------------------- */
+.wrap {
+  max-width: var(--max-width);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+.section {
+  padding-block: clamp(4rem, 9vw, 8rem);
+}
+
+.section--tight { padding-block: clamp(3rem, 6vw, 5rem); }
+.section--deep { background: var(--moss-deep); color: #F2F3F3; }
+.section--alt  { background: var(--paper-deep); }
+
+.section-head {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-bottom: clamp(2.25rem, 5vw, 4rem);
+}
+
+.section-head__rule {
+  display: inline-block;
+  width: 2px;
+  height: 1.1em;
+  background: var(--moss);
+  margin-right: 0.85rem;
+  vertical-align: -0.15em;
+}
+
+.section-title {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: var(--step-h2);
+  line-height: 1.08;
+  letter-spacing: -0.01em;
+  max-width: 16ch;
+}
+
+.section-kicker {
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  max-width: 34ch;
+  padding-top: 0.4rem;
+}
+.section--deep .section-kicker { color: #C9CCCD; }
+
+.visually-hidden {
+  position: absolute;
+  width: 1px; height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.skip-link {
+  position: absolute;
+  left: 1rem; top: -3rem;
+  background: var(--moss-deep);
+  color: #fff;
+  padding: 0.75rem 1.25rem;
+  border-radius: var(--radius-sm);
+  z-index: 200;
+  transition: top var(--dur-fast) var(--ease);
+}
+.skip-link:focus { top: 1rem; }
+
+/* ---- Buttons --------------------------------------------------------------- */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.95rem 1.9rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  transition: background var(--dur-fast) var(--ease), color var(--dur-fast) var(--ease), border-color var(--dur-fast) var(--ease), transform var(--dur-fast) var(--ease);
+}
+
+.btn--primary {
+  background: var(--moss);
+  color: #F6F7EF;
+  border: 1px solid var(--moss);
+}
+.btn--primary:hover { background: var(--moss-strong); border-color: var(--moss-strong); }
+
+.btn--ghost {
+  background: transparent;
+  color: inherit;
+  border: 1px solid currentColor;
+}
+.btn--ghost:hover { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+
+.section--deep .btn--ghost:hover { background: #F2F3F3; color: var(--moss-deep); border-color: #F2F3F3; }
+
+.link-arrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding-bottom: 2px;
+  border-bottom: 1px solid var(--line);
+  transition: border-color var(--dur-fast) var(--ease), gap var(--dur-fast) var(--ease);
+}
+.link-arrow:hover { border-color: var(--moss); gap: 0.75rem; }
+.section--deep .link-arrow { border-color: #697074; color: #F2F3F3; }
+.section--deep .link-arrow:hover { border-color: var(--moss); }
+
+/* ---- Navigation ------------------------------------------------------------- */
+.nav {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 100;
+  padding-block: 1.5rem;
+  transition: padding var(--dur-fast) var(--ease), background var(--dur-fast) var(--ease), box-shadow var(--dur-fast) var(--ease), backdrop-filter var(--dur-fast) var(--ease);
+}
+
+.nav .wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav.is-scrolled {
+  padding-block: 1rem;
+  background: rgba(250, 250, 249, 0.86);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 1px 0 var(--line);
+}
+
+/* Home hero uses a transparent-on-dark nav until scrolled */
+.nav[data-on-image="true"]:not(.is-scrolled) { color: var(--ink); }
+
+.nav__logo {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.nav__logo img { height: 40px; width: auto; }
+.nav__logo-fallback {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+}
+
+.nav__links {
+  display: flex;
+  align-items: center;
+  gap: clamp(1.5rem, 3vw, 2.75rem);
+}
+
+.nav__links a {
+  font-size: 0.95rem;
+  font-weight: 500;
+  position: relative;
+  padding-bottom: 4px;
+}
+.nav__links a::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 100%;
+  bottom: 0;
+  height: 1px;
+  background: var(--moss);
+  transition: right var(--dur-fast) var(--ease);
+}
+.nav__links a:hover::after,
+.nav__links a[aria-current="page"]::after { right: 0; }
+
+.nav__cta { display: none; }
+
+.nav__toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 32px;
+  height: 32px;
+}
+.nav__toggle span {
+  display: block;
+  height: 2px;
+  width: 100%;
+  background: currentColor;
+  transition: transform var(--dur-fast) var(--ease), opacity var(--dur-fast) var(--ease);
+}
+.nav__toggle[aria-expanded="true"] span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+.nav__toggle[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
+.nav__toggle[aria-expanded="true"] span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+.mobile-menu {
+  position: fixed;
+  inset: 0;
+  background: var(--paper);
+  z-index: 99;
+  display: flex;
+  flex-direction: column;
+  padding: 6rem var(--gutter) 3rem;
+  transform: translateY(-100%);
+  transition: transform var(--dur-med) var(--ease);
+}
+.mobile-menu.is-open { transform: translateY(0); }
+
+.mobile-menu__links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 2rem;
+}
+.mobile-menu__links a {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 9vw, 2.75rem);
+  padding-block: 0.5rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.mobile-menu__contact {
+  margin-top: auto;
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+/* ---- Hero -------------------------------------------------------------------- */
+.hero {
+  position: relative;
+  min-height: 100vh;
+  min-height: 100svh;
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+  background: var(--moss-deep);
+}
+
+.hero__media {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+
+.hero__media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  animation: hero-zoom 1.8s var(--ease) forwards;
+}
+
+@keyframes hero-zoom {
+  from { transform: scale(1.12); }
+  to { transform: scale(1); }
+}
+
+.hero__scrim {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(253, 255, 251, 0.932) 0%, rgb(250, 250, 249) 20%, rgba(250, 250, 249, 0.86) 100%);
+}
+
+.hero__content {
+  position: relative;
+  z-index: 2;
+  color: var(--ink);
+  width: 100%;
+  padding-block: clamp(3rem, 8vw, 5rem);
+}
+
+.hero__row {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 3rem;
+  flex-wrap: wrap;
+}
+
+.hero__statement {
+  display: flex;
+  gap: 1.25rem;
+  max-width: 42rem;
+}
+
+.hero__rule {
+  flex: none;
+  width: 2px;
+  background: var(--moss);
+  margin-top: 0.4em;
+  transform-origin: top;
+  animation: hero-rule 900ms var(--ease) both;
+}
+
+.hero__headline {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: var(--step-h1);
+  line-height: 0.98;
+  letter-spacing: -0.015em;
+  animation: hero-rise 900ms var(--ease) 160ms both;
+}
+
+.hero__support {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step-lg);
+  color: var(--ink-soft);
+  margin-top: 1.1rem;
+  animation: hero-rise 900ms var(--ease) 360ms both;
+}
+
+.hero__cta {
+  animation: hero-rise 900ms var(--ease) 560ms both;
+}
+
+@keyframes hero-rule {
+  from { opacity: 0; transform: scaleY(0); }
+  to { opacity: 1; transform: scaleY(1); }
+}
+
+@keyframes hero-rise {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.hero__scroll-cue {
+  position: absolute;
+  bottom: 1.75rem;
+  right: var(--gutter);
+  z-index: 2;
+  color: var(--ink);
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  opacity: 0.85;
+}
+.hero__scroll-cue::after {
+  content: "";
+  width: 1px;
+  height: 34px;
+  background: currentColor;
+  animation: cue-travel 2.2s var(--ease) infinite;
+}
+@keyframes cue-travel {
+  0% { transform: scaleY(0); transform-origin: top; opacity: 0.2; }
+  50% { transform: scaleY(1); transform-origin: top; opacity: 1; }
+  51% { transform-origin: bottom; }
+  100% { transform: scaleY(0); transform-origin: bottom; opacity: 0.2; }
+}
+
+/* ---- Reveal-on-scroll ----------------------------------------------------
+   Gated behind a `.js` class added by an inline script in <head>, so content
+   is fully visible by default and only animates in when JavaScript (and
+   therefore the IntersectionObserver driving it) is actually available. */
+.js .reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity var(--dur-med) var(--ease), transform var(--dur-med) var(--ease);
+}
+.js .reveal.is-visible { opacity: 1; transform: translateY(0); }
+
+/* ---- Who we are ------------------------------------------------------------ */
+.about {
+  display: grid;
+  grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+  gap: clamp(2rem, 6vw, 5rem);
+  align-items: start;
+}
+
+.about__label {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.85rem;
+}
+.about__label .section-head__rule { margin-top: 0.35em; }
+.about__label h2 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: var(--step-h3);
+}
+
+.about__body p {
+  max-width: 58ch;
+  color: #D9DBDC;
+  font-size: var(--step-lg);
+}
+.about__body p + p { margin-top: 1.25rem; }
+
+.about__services {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem 0.9rem;
+  margin-top: 2rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid #697074;
+}
+.about__services li {
+  font-size: 0.88rem;
+  color: #F2F3F3;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid #697074;
+  border-radius: 999px;
+  padding: 0.45rem 1rem;
+}
+
+.about__more { margin-top: 2rem; }
+
+/* ---- Project cards --------------------------------------------------------- */
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(1.5rem, 3vw, 2.5rem);
+}
+
+.project-card__frame {
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--radius-md);
+  aspect-ratio: 4 / 3;
+  background: var(--paper-deep);
+}
+.project-card__frame img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 900ms var(--ease);
+}
+.project-card:hover .project-card__frame img,
+.project-card:focus-within .project-card__frame img { transform: scale(1.045); }
+
+.project-card__info {
+  margin-top: 1.1rem;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.project-card__name {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  font-weight: 500;
+  transition: color var(--dur-fast) var(--ease);
+}
+.project-card:hover .project-card__name { color: var(--moss); }
+
+.project-card__meta {
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+  margin-top: 0.3rem;
+}
+
+.status {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  padding-top: 0.15rem;
+}
+.status::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--moss);
+}
+.status--progress::before { background: #A9762F; }
+
+.projects-foot {
+  display: flex;
+  justify-content: center;
+  margin-top: clamp(2.5rem, 5vw, 4rem);
+}
+
+/* ---- Team -------------------------------------------------------------------- */
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(1.5rem, 4vw, 3rem);
+  max-width: 40 rem;
+}
+
+.team-card__frame {
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: var(--radius-md);
+  background: var(--paper-deep);
+}
+.team-card__frame img { width: 100%; height: 100%; object-fit: cover; }
+
+.team-card__name {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  margin-top: 1.1rem;
+}
+.team-card__role {
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  margin-top: 0.2rem;
+}
+
+/* ---- Contact ------------------------------------------------------------- */
+.contact {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+  gap: clamp(2.5rem, 6vw, 5rem);
+  align-items: start;
+}
+
+.contact__headline {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: var(--step-h2);
+  line-height: 1.06;
+  letter-spacing: -0.01em;
+}
+
+.contact__lede {
+  color: var(--ink-soft);
+  font-size: var(--step-lg);
+  margin-top: 1.25rem;
+  max-width: 34ch;
+}
+
+.contact__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 2.25rem;
+}
+
+.contact__details {
+  display: grid;
+  gap: 1.75rem;
+}
+
+.contact__item dt {
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+}
+.contact__item dd {
+  margin: 0.3rem 0 0;
+  font-size: 1.1rem;
+}
+.contact__item a:hover { color: var(--moss); text-decoration: underline; text-underline-offset: 3px; }
+
+/* ---- Footer ------------------------------------------------------------------ */
+.footer {
+  background: var(--paper-deep);
+  color: var(--ink);
+  padding-block: clamp(2.5rem, 5vw, 3.5rem) 2rem;
+  border-top: 1px solid var(--line);
+}
+
+.footer__top {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr 1fr;
+  gap: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
+.footer__brand {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-family: var(--font-display);
+  color: var(--ink);
+  font-size: 1.2rem;
+}
+.footer__brand img { height: 30px; width: auto; }
+
+.footer__tagline {
+  margin-top: 0.9rem;
+  max-width: 30ch;
+  font-size: 0.92rem;
+}
+
+.footer__heading {
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  margin-bottom: 1rem;
+}
+
+.footer__links { display: grid; gap: 0.65rem; }
+.footer__links a:hover { color: var(--moss); }
+
+.footer__meta {
+  display: grid;
+  gap: 0.65rem;
+  font-size: 0.92rem;
+}
+
+.footer__bottom {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid var(--line);
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+}
+.footer__legal { display: flex; gap: 1.5rem; }
+.footer__legal a:hover { color: var(--moss); }
+
+/* ---- Page header (Projects page) ------------------------------------------ */
+.page-header {
+  padding-block: clamp(7.5rem, 16vw, 11rem) clamp(3rem, 6vw, 4.5rem);
+}
+.page-header__title {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: var(--step-h1);
+  line-height: 0.98;
+  letter-spacing: -0.01em;
+  max-width: 16ch;
+}
+.page-header__lede {
+  color: var(--ink-soft);
+  font-size: var(--step-lg);
+  margin-top: 1.25rem;
+  max-width: 42ch;
+}
+
+.projects-grid--four { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+
+/* ---- Responsive ----------------------------------------------------------- */
+@media (max-width: 1024px) {
+  .about { grid-template-columns: 1fr; }
+  .contact { grid-template-columns: 1fr; }
+  .footer__top { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 768px) {
+  .nav__links, .nav__cta { display: none; }
+  .nav__toggle { display: flex; }
+
+  .projects-grid,
+  .projects-grid--four,
+  .team-grid {
+    grid-template-columns: 1fr;
+    max-width: none;
+  }
+
+  .section-head { flex-direction: column; align-items: flex-start; gap: 0.75rem; }
+
+  .hero__row { flex-direction: column; align-items: flex-start; }
+  .hero__statement { gap: 1rem; }
+
+  .footer__top { grid-template-columns: 1fr; gap: 2rem; }
+  .footer__bottom { flex-direction: column; align-items: flex-start; }
+
+  .about__services li { font-size: 0.82rem; }
+}
+
+@media (max-width: 480px) {
+  .wrap { padding-inline: 1.25rem; }
+  .hero__rule { display: none; }
+}
+
+/* ---- Reduced motion --------------------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+
+  .js .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+
+  .hero__media img,
+  .hero__rule,
+  .hero__headline,
+  .hero__support,
+  .hero__cta {
+    animation: none !important;
+    transform: none !important;
+    opacity: 1 !important;
+  }
+
+  .project-card__frame img { transition: none; }
+  .project-card:hover .project-card__frame img { transform: none; }
+
+  .hero__scroll-cue::after { animation: none; }
+
+  .mobile-menu { transition: none; }
+}
+=====================================================
+/**
+ * Elmar Builders — main.js
+ * Handles: mobile menu, sticky nav state, project card rendering.
+ */
+
+(function () {
+  "use strict";
+
+  /* ---- Footer year --------------------------------------------------- */
+  var yearEl = document.getElementById("year");
+  if (yearEl) yearEl.textContent = String(new Date().getFullYear());
+
+  /* ---- Sticky / scrolled navigation ----------------------------------- */
+  var nav = document.getElementById("siteNav");
+
+  function updateNavState() {
+    if (!nav) return;
+    if (window.scrollY > 40) {
+      nav.classList.add("is-scrolled");
+    } else {
+      nav.classList.remove("is-scrolled");
+    }
+  }
+  updateNavState();
+  window.addEventListener("scroll", updateNavState, { passive: true });
+
+  /* ---- Mobile menu ------------------------------------------------------ */
+  var toggle = document.getElementById("navToggle");
+  var menu = document.getElementById("mobileMenu");
+
+  function closeMenu() {
+    if (!menu || !toggle) return;
+    menu.classList.remove("is-open");
+    toggle.setAttribute("aria-expanded", "false");
+    toggle.setAttribute("aria-label", "Open menu");
+    document.body.style.overflow = "";
+  }
+
+  function openMenu() {
+    if (!menu || !toggle) return;
+    menu.classList.add("is-open");
+    toggle.setAttribute("aria-expanded", "true");
+    toggle.setAttribute("aria-label", "Close menu");
+    document.body.style.overflow = "hidden";
+  }
+
+  if (toggle && menu) {
+    toggle.addEventListener("click", function () {
+      var isOpen = toggle.getAttribute("aria-expanded") === "true";
+      if (isOpen) {
+        closeMenu();
+      } else {
+        openMenu();
+      }
+    });
+
+    menu.querySelectorAll("a").forEach(function (link) {
+      link.addEventListener("click", closeMenu);
+    });
+
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "Escape") closeMenu();
+    });
+  }
+
+  /* ---- Project card rendering ------------------------------------------- */
+  var STATUS_LABEL = {
+    completed: "Completed",
+    "in-progress": "In progress"
+  };
+
+  function projectCard(project) {
+    var article = document.createElement("article");
+    article.className = "project-card reveal";
+
+    var statusClass = project.status === "in-progress" ? "status status--progress" : "status";
+    var statusText = STATUS_LABEL[project.status] || project.status;
+
+    article.innerHTML =
+      '<div class="project-card__frame">' +
+        '<img src="' + project.image + '" alt="' + project.name + ', ' + project.type.toLowerCase() + ' in ' + project.location + '" loading="lazy">' +
+      "</div>" +
+      '<div class="project-card__info">' +
+        "<div>" +
+          '<h3 class="project-card__name">' + project.name + "</h3>" +
+          '<p class="project-card__meta">' + project.location + " &middot; " + project.type + "</p>" +
+        "</div>" +
+        '<span class="' + statusClass + '">' + statusText + "</span>" +
+      "</div>";
+
+    return article;
+  }
+
+  function renderInto(containerId, list) {
+    var container = document.getElementById(containerId);
+    if (!container || typeof PROJECTS === "undefined") return;
+    list.forEach(function (project) {
+      container.appendChild(projectCard(project));
+    });
+  }
+
+  if (typeof PROJECTS !== "undefined") {
+    // Home page: featured projects
+    renderInto("featuredProjects", PROJECTS.filter(function (p) { return p.featured; }));
+
+    // Projects page: split by status
+    renderInto("currentProjects", PROJECTS.filter(function (p) { return p.status === "in-progress"; }));
+    renderInto("completedProjects", PROJECTS.filter(function (p) { return p.status === "completed"; }));
+  }
+
+  // Let the animation module know new .reveal elements may have been added.
+  document.dispatchEvent(new CustomEvent("projects:rendered"));
+})();
