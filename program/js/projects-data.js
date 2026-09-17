@@ -16,17 +16,17 @@
 
 const PROJECTS = [
   {
-    name: "< name.......>",
-    location: "< location.......>",
-    type: " area",
+    name: "Villas at Thripunithara",
+    location: "Thripunithara, Kerala",
+    type: "Residential",
     status: "current",
     featured: true,
     image: "assets/8.jpg"
   },
   {
-    name: "< name.......>",
-    location: "< location.......>",
-    type: " area",
+    name: "Apartment at Ernakulam",
+    location: "Ernakulam, Kerala",
+    type: "Residential",
     status: "current",
     featured: true,
     image: "assets/9.jpg"
